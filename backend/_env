@@ -1,0 +1,8 @@
+# Groq AI API Configuration
+GROQ_API_KEY=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
+
+# Server Configuration
+PORT=3000
+
+# Optional: Add other environment variables as needed
+NODE_ENV=development
