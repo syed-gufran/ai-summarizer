@@ -70,6 +70,7 @@ npm start
 * **Backend**: Deployed on Render
 * **Frontend**: Deployed on Vercel
 * **Environment Variables** must be configured accordingly on both platforms.
+* deployed website - https://pdf-summarizer-frontend.vercel.app
 
 ---
 
